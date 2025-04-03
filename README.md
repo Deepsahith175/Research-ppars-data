@@ -1,6 +1,6 @@
 # Research-ppars-data
 
-# ArXiv & MDPI Data Scraping
+# ArXiv Data Scraping
 
 This repository contains a Python-based data scraping tool designed to collect and store research data from **arXiv** and **MDPI**. The scraped data is saved in an Excel file for easy access and further analysis.
 

@@ -17,7 +17,8 @@ The scraping tool uses Python libraries such as:
 
 ## Authors
 
-- **Dr. Sherly Alphonse** - Guidance and Supervision  
+- **Dr. Sherly Alphonse** - Guidance and Supervision
+- **Dr. D.Kavitha** -  Guidance and Supervision
 - **KV Deepsahith** - Data Scraping & Analysis
 
 ## Sources
